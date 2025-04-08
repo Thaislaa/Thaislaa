@@ -30,8 +30,8 @@
     <tr>
         <td>
             <a href="mailto:thaisladaveiga@gmail.com">
-                <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="ícone gmail"><br>E-mail
-            </a>    
+                <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="ícone gmail">
+            </a>    <br>E-mail
         </td>
         <td>  
             <a href="https://www.linkedin.com/in/thaisla-veiga-993675247?utm_source=share&utm_campaign=share_via&utm_content=profile utm_medium=ios_app">
