@@ -26,12 +26,29 @@
 </table>
 
 <h3 class="code-line" data-line-start=14 data-line-end=15><a id="__Contatos_14"></a>📞 Contatos</h3>
+
 <p class="has-line-data" data-line-start="15" data-line-end="16">
   <a href="mailto:thaisladaveiga@gmail.com"><img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="ícone gmail"></a>
   <a href="https://www.linkedin.com/in/thaisla-veiga-993675247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" alt="ícone linkedin">
   </a>
 </p>
+
+<table>
+    <tr>
+        <td>
+            <a href="mailto:thaisladaveiga@gmail.com">
+                <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="ícone gmail">
+            </a>    
+        </td>
+        <td>  
+            <a href="https://www.linkedin.com/in/thaisla-veiga-993675247?utm_source=share&utm_campaign=share_via&utm_content=profile utm_medium=ios_app">
+                <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" alt="ícone linkedin">
+            </a>
+        </td>
+    </tr>
+
+</table>
 
 <h3 class="code-line" data-line-start=17 data-line-end=18><a id="_Minhas_estatsticas_no_GitHub_17"></a>📊 Minhas estatísticas no GitHub</h3>
 <p class="has-line-data" data-line-start="19" data-line-end="20">
