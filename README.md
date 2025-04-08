@@ -14,13 +14,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/?size=50&id=1043&format=png&color=000000" alt="HTML" /><br>HTML
+      <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML" /><br>HTML
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=50&id=1045&format=png&color=000000" alt="CSS" /><br>CSS
+      <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="CSS" /><br>CSS
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=50&id=39853&format=png&color=000000" alt="JavaScript" /><br>JavaScript
+      <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript" /><br>JavaScript
     </td>
   </tr>
 </table>
