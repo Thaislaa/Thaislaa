@@ -7,7 +7,8 @@
 <ul>
   <li class="has-line-data" data-line-start="7" data-line-end="8"><strong>Técnico em Informática</strong> – IFSul (concluído em 12/2024)</li>
   <li class="has-line-data" data-line-start="8" data-line-end="9"><strong>Análise e Desenvolvimento de Sistemas</strong> – FEEVALE (previsão: 06/2027)</li>
-  <li class="has-line-data" data-line-start="9" data-line-end="11"><strong>Desenvolvimento Web Front-end</strong> – Growdev (previsão: 05/2026)</li>
+  <li class="has-line-data" data-line-start="9" data-line-end="11"><strong>Programa Starter + ELAS NO FRONT</strong> – Growdev (previsão: 11/2025)</li>
+  <li class="has-line-data" data-line-start="9" data-line-end="11"><strong>Desenvolvimento Web Full Stack</strong> – Growdev (previsão: 05/2026)</li>
 </ul>
 
 <h3 class="code-line" data-line-start=11 data-line-end=12><a id="_Linguagens__Tecnologias_11"></a>💻 Linguagens & Tecnologias</h3>
